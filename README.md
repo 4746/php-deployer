@@ -4,7 +4,7 @@
 ```shell
 docker push vadik/php-deployer
 # or
-docker push vadik/php-deployer:8.3-fpm-node24
+docker push vadik/php-deployer:8.4-fpm-node22
 ```
 
 # example local build
